@@ -190,7 +190,7 @@ B.Tech Computer Science & Engineering | Data Science
 
 Interested in Data Analytics, Business Intelligence, and Data-Driven Decision Making.
 
-🔗 **GitHub:** [Add Your GitHub Profile Link](https://github.com/)
+🔗 **GitHub:** (https://github.com/anuragprajapati13/Sales-Performance-Dashboard)
 
 ---
 
